@@ -1,1 +1,1 @@
-# JavaScript30
+# My practice in JavaScript30 with Wes Bos
